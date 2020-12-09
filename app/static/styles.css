@@ -1,8 +1,16 @@
-h1{
-    color: red;
+*{
+    font-family: 'Heebo', sans-serif;
 }
 
-heading{
-    font-size: 500px;
+
+.myName{
+    font-size: 60px;
     color: #154734;
+}
+
+.centered{
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
