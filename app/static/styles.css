@@ -1,11 +1,25 @@
 *{
     font-family: 'Heebo', sans-serif;
+
+}
+
+
+/*CSS for Sections of Portfolio
+* Home
+* About
+* etc.
+*/
+.homePage{
+    background-color: #FFB81C;
+    overflow:hidden;
+
 }
 
 
 .myName{
     font-size: 60px;
     color: #154734;
+
 }
 
 .centered{
